@@ -1,0 +1,7 @@
+**BUY & SELL HOUSE**
+<br>
+<br>
+ IT IS LIVE AT https://house-sell-help.netlify.app
+<br>
+This Web app is made To buy and Sell Houses to help to help people affected with the Russian -Ukraine conflict .<br>
+It is made using Html,CSS,Javascript,Reactjs as frontend and Firebase as Backend.<br>
